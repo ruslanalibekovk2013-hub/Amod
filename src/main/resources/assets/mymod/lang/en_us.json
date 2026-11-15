@@ -1,0 +1,11 @@
+{
+ "block.mymod.power_block": "Power Block",
+ "block.mymod.jump_pad": "Jump Pad",
+ "block.mymod.speed_pad": "Speed Pad",
+ "block.mymod.timer_block": "Timer Block",
+ "block.mymod.detector_block": "Player Detector",
+ "block.mymod.lightning_block": "Lightning Block",
+ "item.mymod.build_menu": "Build Menu",
+ "key.mymod.menu": "Open Build Menu",
+ "category.mymod": "MyMod"
+}
